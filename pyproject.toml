@@ -16,6 +16,3 @@ python = "*"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.1"
-
-[tool.poetry.scripts]
-pawaka = 'deep_filter:main'
