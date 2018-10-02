@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "deep-filter"
+version = "1.0.0"
+description = "Removes values from nested dicts and lists"
+authors = ["KH <kasperkh.kh@gmail.com>"]
+readme = 'README.md'
+repository = "https://github.com/spectralkh/deep-filter"
+# homepage = ""
+keywords = [
+    'filter', 'remove', 'nested',
+    'recursively', 'delete', 'dicts', 'lists'
+]
+
+[tool.poetry.dependencies]
+python = "*"
+
+[tool.poetry.dev-dependencies]
+pylint = "^2.1"
+
+[tool.poetry.scripts]
+pawaka = 'deep_filter:main'
