@@ -15,4 +15,4 @@ keywords = [
 python = "*"
 
 [tool.poetry.dev-dependencies]
-pylint = "^2.1"
+pylint = "^2.6"
