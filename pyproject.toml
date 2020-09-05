@@ -2,9 +2,9 @@
 name = "deep-filter"
 version = "1.0.0"
 description = "Removes values from nested dicts and lists"
-authors = ["KH <kasperkh.kh@gmail.com>"]
+authors = ["kasper.space"]
 readme = 'README.md'
-repository = "https://github.com/spectralkh/deep-filter"
+repository = "https://github.com/probablykasper/deep-filter"
 # homepage = ""
 keywords = [
     'filter', 'remove', 'nested',
